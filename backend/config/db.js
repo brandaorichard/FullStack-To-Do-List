@@ -1,5 +1,5 @@
-import mongoose from "mongoose";
-import process from "node:process";
+import mongoose from 'mongoose';
+import process from 'node:process';
 
 export const connectDB = async () => {
   try {

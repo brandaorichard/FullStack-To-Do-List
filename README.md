@@ -1,8 +1,8 @@
-📌 To-Do List (MERN Stack)
+<h1>📌 To-Do List (MERN Stack)</h1>
 
-Este repositório contém a aplicação To-Do List, desenvolvida com MongoDB, Express, React e Node.js (MERN Stack).
+<p>Este repositório contém a aplicação To-Do List, desenvolvida com MongoDB, Express, React e Node.js (MERN Stack).</p>
 
-🚀 Tecnologias Utilizadas
+<h2>🚀 Tecnologias Utilizadas</h2>
 
 Node.js - Ambiente de execução JavaScript
 
@@ -25,9 +25,9 @@ ESLint - Linter para garantir qualidade do código
 Prettier - Formatação automática do código
 
 
-🖥️ Backend
+<h2>🖥️ Backend</h2> 
 
-📂 Estrutura do Projeto
+<h3>📂 Estrutura do Projeto</h3>
 ```
 fullstack-todolist/
 │-- backend/

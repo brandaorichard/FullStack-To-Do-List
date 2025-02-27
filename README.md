@@ -26,23 +26,6 @@ Prettier - Formatação automática do código
 
 
 <h2>🖥️ Backend</h2> 
-
-<h3>📂 Estrutura do Projeto</h3>
-```
-fullstack-todolist/
-│-- backend/
-│   ├── config/
-│   │   ├── db.js        # Configuração da conexão com MongoDB
-│   ├── models/
-│   │   ├── Task.js      # Modelo de dados da Tarefa
-│   ├── routes/
-│   │   ├── taskRoutes.js # Rotas da API para gerenciar tarefas
-│   ├── server.js        # Configuração e inicialização do servidor Express
-│   ├── .env             # Variáveis de ambiente (não versionado)
-│   ├── .gitignore       # Ignora arquivos desnecessários no Git
-│   ├── package.json     # Dependências e scripts do projeto
-│   ├── eslint.config.js # Configuração do ESLint
-```
 🔌 Configuração do Ambiente
 
 1️⃣ Clone o repositório
